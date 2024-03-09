@@ -1,0 +1,35 @@
+Matrix Addition
+[[ 6  8]
+ [10 12]]
+Matrix Subtraction
+[[-4 -4]
+ [-4 -4]]
+Matrix Multiplication
+[[19 22]
+ [43 50]]
+Matrix Transpose
+[[1 3]
+ [2 4]]
+Matrix Inverse
+[[-2.   1. ]
+ [ 1.5 -0.5]]
+Matrix Trace
+5
+Matrix Determinant
+-2.0000000000000004
+Matrix Rank
+2
+Matrix Power
+[[ 7 10]
+ [15 22]]
+Matrix Eigenvalues
+[-0.37228132  5.37228132]
+Matrix Eigenvectors
+EigResult(eigenvalues=array([-0.37228132,  5.37228132]), eigenvectors=array([[-0.82456484, -0.41597356],
+       [ 0.56576746, -0.90937671]]))
+Matrix SVD
+SVDResult(U=array([[-0.40455358, -0.9145143 ],
+       [-0.9145143 ,  0.40455358]]), S=array([5.4649857 , 0.36596619]), Vh=array([[-0.57604844, -0.81741556],
+       [ 0.81741556, -0.57604844]]))
+Matrix Norm
+5.477225575051661
